@@ -43,7 +43,7 @@ This project is an interactive Ecommerce Sales Dashboard built using Power BI to
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://github.com/rakeshkpradhan15-hub/ecommerce-sales-dashboard/blob/main/screnshots/dashboard-overview.png?raw=true)
+[Dashboard Overview](https://github.com/rakeshkpradhan15-hub/ecommerce-sales-dashboard/blob/main/screnshots/dashboard-overview.png?raw=true)
 ---
 
 ## Author
